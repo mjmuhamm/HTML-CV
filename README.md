@@ -1,2 +1,2 @@
 # HTML-CV
-Pure, Clean, HTML
+Pure, Clean - HTML
